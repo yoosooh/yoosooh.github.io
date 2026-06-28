@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.yoosooh.fanwhitenoise",
+        "sha256_cert_fingerprints": ["32:D2:64:4A:9F:46:EA:E7:9B:71:D3:A8:C7:AD:41:02:41:E6:7C:3D:6E:F5:57:D2:27:38:15:46:5B:57:81:20"]
+      }
+    }]
